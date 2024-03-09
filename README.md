@@ -1,4 +1,4 @@
-## Maps & geography
+## Geography Works
 
 I make maps with QGIS, PostGIS, R, Linux
 
