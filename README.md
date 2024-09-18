@@ -1,5 +1,3 @@
-## Geography Works
-
-I make maps with QGIS, PostGIS, R, Linux
+Docs and scripts for QGIS, PostGIS, R, Linux and web dev.
 
 emailstevekim@gmail.com
