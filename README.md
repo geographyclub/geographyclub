@@ -1,3 +1,3 @@
-Docs and scripts for QGIS, PostGIS, R, Linux and web dev.
+Docs and scripts for geospatial and web dev.
 
 emailstevekim@gmail.com
